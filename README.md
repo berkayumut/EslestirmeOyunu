@@ -1,10 +1,3 @@
-# EslestirmeOyunu
-Windows Form İle Hafıza Oyunu Yapımı.
-
-*
-*
-*
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
